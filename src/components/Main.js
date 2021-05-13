@@ -33,24 +33,30 @@ class Main extends React.Component {
             <img src={pic01} alt="" />
           </span>
           <p>
-            Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin
-            aliquam facilisis ante interdum congue. Integer mollis, nisl amet
-            convallis, porttitor magna ullamcorper, amet egestas mauris. Ut
-            magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas.
-            By the way, check out my <a href="#contact">awesome work</a>.
-          </p>
+          JW Detail &amp; Valet is a mobile vehicle cleaning service owned and run by me, Josh Williams.
+          Born from a lifelong passion for cars, my company is built on experience of valeting vehicles
+          for over 10 years before setting up professionally.</p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis
-            dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora
-            torquent per conubia nostra, per inceptos himenaeos. Etiam tristique
-            libero eu nibh porttitor fermentum. Nullam venenatis erat id
-            vehicula viverra. Nunc ultrices eros ut ultricies condimentum.
-            Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae
-            dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in
-            lectus. Pellentesque habitant morbi tristique senectus et netus et
-            malesuada fames ac turpis egestas. In non lorem sit amet elit
-            placerat maximus. Pellentesque aliquam maximus risus, vel sed
-            vehicula.
+          Currently run alongside a career as a Heavy Goods Vehicle driver and father to a young
+          family, JW Detail&amp;Valet provides a personable, convenient premium mobile motor vehicle
+          cleaning service. Our top priority is a happy client- after all, every successful business runs on
+          customer satisfaction! </p>
+          <p>We are only as good as our last job.</p>
+          <p>
+          We understand that choosing a valeting service for your car can be confusing, as there are
+          many levels of service within the industry, with prices to match.
+          JW detail and valet is a solo owner run company who’s services range from 2 to 7 hours,
+          using only premium grade products and equipment. Perfection requires time and patience-
+          and as such this is not comparable to a 5 man/5 minute/ 5 pound clean. Our quality
+          equipped van makes us fully mobile with only access to a power source required. Prices
+          shown reflect the care and attention to detail we offer, using products that last and ensure
+          the best possible finish. We also provide our services 7 days a week with weekends and
+          evenings at no extra cost!</p>
+          <p>
+          We are more than happy to offer bespoke quotations, and if there is a service you require
+          that isn’t shown please do not hesitate to ask. Our company is constantly evolving to keep
+          up to date with everything in the industry, We offer refer a friend and loyalty discounts, as
+          well as timed promotional deals so keep an eye on our social media for updates!
           </p>
           {close}
         </article>
