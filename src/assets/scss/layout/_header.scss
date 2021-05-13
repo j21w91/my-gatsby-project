@@ -63,15 +63,15 @@
   }
 
   .logo {
-    width: 5.5rem;
-    height: 5.5rem;
-    line-height: 5.5rem;
+    width: 10.5rem;
+    height: 10.5rem;
+    line-height: 10.5rem;
     border: solid _size(border-width) _palette(border);
     border-radius: 100%;
 
     .icon {
       &:before {
-        font-size: 2rem;
+        font-size: 6rem;
       }
     }
   }
@@ -108,6 +108,11 @@
       font-size: 0.8rem;
       line-height: 2;
     }
+  }
+  
+  img {
+    width: 100%;
+    height: auto;
   }
 
   nav {
