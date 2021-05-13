@@ -29,9 +29,6 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
           <h2 className="major">About</h2>
-          <span className="image main">
-            <img src={pic01} alt="" />
-          </span>
           <p>
           JW Detail &amp; Valet is a mobile vehicle cleaning service owned and run by me, Josh Williams.
           Born from a lifelong passion for cars, my company is built on experience of valeting vehicles
@@ -58,9 +55,69 @@ class Main extends React.Component {
           up to date with everything in the industry, We offer refer a friend and loyalty discounts, as
           well as timed promotional deals so keep an eye on our social media for updates!
           </p>
+
+         
           {close}
         </article>
+        <article
+          id="faq"
+          className={`${this.props.article === 'faq' ? 'active' : ''} ${
+            this.props.articleTimeout ? 'timeout' : ''
+          }`}
+          style={{ display: 'none' }}
+        >
+        <h2 className="major">FAQ</h2>
+          <p><b>Why choose JW Detail&amp; Valet when I can use an automated car wash?</b></p>
+          <p>
+          We like to use the analogy here of a birthday cake (after all who doesn’t love cake?!) You
+          have a few options. You could go to a budget supermarket and purchase a basic sponge-
+          cheap and convenient but probably not the best quality. Or Maybe as a treat you could go
+          to a bakery and buy a decorated cake from the shelf- higher standard but not personalised
+          and again quick and will do. But then you could also choose to purchase a bespoke highly
+          decorated triple layer masterpiece from an independent baker that uses the best
+          ingredients that takes time to create.
+          This is much the same as how our services compare to other car cleaning options available.
+          We all have the choice of using an automated car wash for the low cost, or the supermarket
+          car park hand washes for convenience. But when only the best will do and you require a
+          personal service that leaves no mat unturned- JW Detail&amp;Valet are here to help. A few
+          examples of why our services stand out:
+          Use of purified Spotless water- no unsightly water marks on your paint or glass work
+          Use of premium professional grade valeting products that provide a lasting finish
+          Extra services such as headlight restoration and ceramic glass coating not offered by more
+          basic providers
+          Gazebo so your service can be carried out whatever the weather
+          Mobile fully equipped van that requires access to electricity only- Absolutely everything else
+          supplied by us.
+          No time constraints- we will keep going until the service is completed to highest possible
+          standard.
+          </p>
+          <p><b>Are you insured?</b></p>
+          <p>
+          Yes. We hold Public liability insurance up to the value of £1,000,000
+          </p>
+          <p><b>Ive booked a service but the weather isn’t favourable- will I have to reschedule?</b></p>
+          <p>Absolutely not! We provide a weather proof gazebo to carry out your service come rain or
+          shine, why not upgrade to our premium plus or executive service to include water repellent
+          wax?
+          </p>
+          <p><b>Do you offer any discounts/ promotions?</b></p>
+          <p>
+          We offer a refer a friend (RAF) discount of 10% for both parties when quoted at booking.
+          We also offer a loyalty discount of 25% off your 4 th service booked, as well as 10% off
+          vehicles from the same household booked to be completed at the same time. We also run
+          time limited promotional offers so keep an eye out on our social media pages. Please
+          noteonly one promotion can be applied per booking</p>
 
+          <p><b>What methods of payment do you accept?</b></p>
+          <p>We accept payment via cash (preferred) or bank transfer</p>
+          <p><b>Do you provide a traditional “in and out service”?</b></p>
+          <p>
+          Yes! The price for this is found by combining the cost of premium/premium plus and
+          executive services. For an exceptional top of the range finish select our exclusive package
+          which includes premium detailing of all exterior and interior surfaces- see our available
+          packages here</p>
+          {close}
+        </article>
         <article
           id="services"
           className={`${this.props.article === 'services' ? 'active' : ''} ${
