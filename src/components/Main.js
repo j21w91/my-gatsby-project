@@ -96,12 +96,12 @@ class Main extends React.Component {
           <p>
           Yes. We hold Public liability insurance up to the value of £1,000,000
           </p>
-          <p><b>Ive booked a service but the weather isn’t favourable- will I have to reschedule?</b></p>
+          <p><b>I have booked a service but the weather isn’t favourable - will I have to reschedule?</b></p>
           <p>Absolutely not! We provide a weather proof gazebo to carry out your service come rain or
           shine, why not upgrade to our premium plus or executive service to include water repellent
           wax?
           </p>
-          <p><b>Do you offer any discounts/ promotions?</b></p>
+          <p><b>Do you offer any discounts/promotions?</b></p>
           <p>
           We offer a refer a friend (RAF) discount of 10% for both parties when quoted at booking.
           We also offer a loyalty discount of 25% off your 4 th service booked, as well as 10% off
