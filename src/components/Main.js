@@ -34,15 +34,14 @@ class Main extends React.Component {
           Born from a lifelong passion for cars, my company is built on experience of valeting vehicles
           for over 10 years before setting up professionally.</p>
           <p>
-          Currently run alongside a career as a Heavy Goods Vehicle driver and father to a young
-          family, JW Detail&amp;Valet provides a personable, convenient premium mobile motor vehicle
+          JW Detail &amp; Valet provides a personable, convenient premium mobile motor vehicle
           cleaning service. Our top priority is a happy client- after all, every successful business runs on
           customer satisfaction! </p>
           <p>We are only as good as our last job.</p>
           <p>
           We understand that choosing a valeting service for your car can be confusing, as there are
           many levels of service within the industry, with prices to match.
-          JW Detail&amp;Valet is a solo owner run company whose services range from 2 to 7 hours,
+          JW Detail &amp; Valet is a solo owner run company whose services range from 2 to 7 hours,
           using only premium grade products and equipment. Perfection requires time and patience-
           and as such this is not comparable to a 5 man/5 minute/ 5 pound clean. Our quality
           equipped van makes us fully mobile with only access to a power source required. Prices
@@ -79,7 +78,7 @@ class Main extends React.Component {
           This is much the same as how our services compare to other car cleaning options available.
           We all have the choice of using an automated car wash for the low cost, or the supermarket
           car park hand washes for convenience. But when only the best will do and you require a
-          personal service that leaves no mat unturned- JW Detail&amp;Valet are here to help. A few
+          personal service that leaves no mat unturned- JW Detail &amp; Valet are here to help. A few
           examples of why our services stand out:
           Use of purified Spotless water- no unsightly water marks on your paint or glass work
           Use of premium professional grade valeting products that provide a lasting finish
