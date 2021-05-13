@@ -66,30 +66,32 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
         <h2 className="major">FAQ</h2>
-          <p><b>Why choose JW Detail&amp; Valet when I can use an automated car wash?</b></p>
+          <p><b>Why choose JW Detail &amp; Valet when I can use an automated car wash?</b></p>
           <p>
-          We like to use the analogy here of a birthday cake (after all who doesn’t love cake?!) You
-          have a few options. You could go to a budget supermarket and purchase a basic sponge-
-          cheap and convenient but probably not the best quality. Or Maybe as a treat you could go
-          to a bakery and buy a decorated cake from the shelf- higher standard but not personalised
-          and again quick and will do. But then you could also choose to purchase a bespoke highly
-          decorated triple layer masterpiece from an independent baker that uses the best
-          ingredients that takes time to create.
-          This is much the same as how our services compare to other car cleaning options available.
+          We like to use the analogy of a birthday cake (after all, who doesn’t love cake?!). 
+          You have a few options:<br />
+          <p><li>You could go to a budget supermarket and purchase a basic sponge -
+          cheap and convenient but probably not the best quality.<br /></li>
+          <li>Or Maybe as a treat you could go to a bakery and buy a decorated cake from the shelf - higher standard but not personalised, is quick and "will do".</li>
+          <li>But then you could also choose to purchase a bespoke highly decorated triple layer masterpiece from an independent baker that uses the best ingredients - it takes time to create but you are blown away by the end product.</li></p>
+          <p>This is much the same as how our services compare to other car cleaning options available.
           We all have the choice of using an automated car wash for the low cost, or the supermarket
           car park hand washes for convenience. But when only the best will do and you require a
-          personal service that leaves no mat unturned- JW Detail &amp; Valet are here to help. A few
+          personal service that leaves no mat unturned - JW Detail &amp; Valet are here to help.</p>
+          
+          <p>A few
           examples of why our services stand out:
-          Use of purified Spotless water- no unsightly water marks on your paint or glass work
-          Use of premium professional grade valeting products that provide a lasting finish
-          Extra services such as headlight restoration and ceramic glass coating not offered by more
-          basic providers
-          Gazebo so your service can be carried out whatever the weather
-          Mobile fully equipped van that requires access to electricity only- Absolutely everything else
-          supplied by us.
-          No time constraints- we will keep going until the service is completed to highest possible
-          standard.
-          </p>
+
+          <li>Use of purified Spotless water- no unsightly water marks on your paint or glass work.</li>
+          <li>Use of premium professional grade valeting products that provide a lasting finish.</li>
+          <li>Extra services such as headlight restoration and ceramic glass coating not offered by more
+          basic providers.</li>
+          <li>Gazebo so your service can be carried out whatever the weather.</li>
+          <li>Mobile fully equipped van that requires access to electricity only- Absolutely everything else
+          supplied by us.</li>
+          <li>No time constraints- we will keep going until the service is completed to highest possible
+          standard.</li>
+          </p></p>
           <p><b>Are you insured?</b></p>
           <p>
           Yes. We hold Public liability insurance up to the value of £1,000,000
