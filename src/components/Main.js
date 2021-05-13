@@ -42,7 +42,7 @@ class Main extends React.Component {
           <p>
           We understand that choosing a valeting service for your car can be confusing, as there are
           many levels of service within the industry, with prices to match.
-          JW detail and valet is a solo owner run company who’s services range from 2 to 7 hours,
+          JW Detail&amp;Valet is a solo owner run company whose services range from 2 to 7 hours,
           using only premium grade products and equipment. Perfection requires time and patience-
           and as such this is not comparable to a 5 man/5 minute/ 5 pound clean. Our quality
           equipped van makes us fully mobile with only access to a power source required. Prices
