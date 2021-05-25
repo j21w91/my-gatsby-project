@@ -14,7 +14,7 @@ const Footer = (props) => (
                 <span className="label">Instagram</span>
               </a>
             </li></ul></p>
-            <p className="copyright">&copy;Jamie Williams Design</p>
+            <p className="copyright">&copy; Jamie Williams Design</p>
     </footer>
 )
 
