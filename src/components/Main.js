@@ -133,17 +133,37 @@ class Main extends React.Component {
 */}
           <p>
           <b>PREMIUM</b> - <b>S</b>£32 <b>M</b>£35 <b>L</b>£38 <b>XL</b>£41
+          <br/><i>EXTERIOR ONLY</i>
           </p>
           <p>
             <ul>
-              <li>EXTERIOR ONLY</li>
-              <li>CITRUS PREWASH</li>
-              <li>SNOWFOAM</li>
-              <li>OUTER WHEEL CLEAN</li>
-              <li>PH NEUTRAL SHAMPOO AND JETWASH</li>
-              <li>MICROFIBRE HAND DRY</li>
-              <li>EXTERIOR GLASS POLISH</li>
+              <li>Citrus Prewash</li>
+              <li>Snowfoam</li>
+              <li>Outer Wheel Clean</li>
+              <li>PH Neutral Shampoo and Jetwash</li>
+              <li>Microfibre Hand Dry</li>
+              <li>Exterior Glass Polish</li>
             </ul>
+          </p>
+          <p>
+          <b>PREMIUM PLUS</b> - <b>S</b>£48 <b>M</b>£51 <b>L</b>£54 <b>XL</b>£57
+          <br/><i>INCLUDES ALL FROM <b>PREMIUM</b> PLUS</i>:
+          </p>
+          <p>
+            <ul>
+              <li>Tar Remover</li>
+              <li>Deep Clean and Dress of All Exterior Trims and Badging <i>Including</i> Bumpers</li>
+              <li>Full Wheel Clean Including Arches and Tyres Dressed</li>
+              <li>Liquid Water Repellent Wax</li>
+            </ul>
+          </p>
+          <hr />
+          <p>
+            <b><u>Car Classes</u></b>
+            <br />SMALL (<b>S</b>): <i>FIAT 500 SMART, KA, CORSA, MATIZ ETC</i>
+            <br />MEDIUM (<b>M</b>): <i>FOCUS, MEGANE, GOLF, A CLASS ,AUDI A3, BMW 1 SERIES, ASTRA ETC</i>
+            <br />LARGE (<b>L</b>): <i>MERCEDES S CLASS, MONDEO, INSIGNIA, C MAX, QASHQAI ETC</i>
+            <br />EXTRA LARGE (<b>XL</b>): <i>SMAX, 7 SEATERS, ESTATES, RANGE ROVER, MERCEDES GLC VW TOUREG, NEVARA ETC</i>
           </p>
           {close}
         </article>
