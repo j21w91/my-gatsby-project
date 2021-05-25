@@ -127,23 +127,23 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
           <h2 className="major">Services</h2>
-          <span className="image main">
+{/*      <span className="image main">
             <img src={pic02} alt="" />
           </span>
+*/}
           <p>
-            Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu,
-            at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent
-            urna nisi, fringila lorem et vehicula lacinia quam. Integer
-            sollicitudin mauris nec lorem luctus ultrices.
+          <b>PREMIUM</b> - <b>S</b>£32 <b>M</b>£35 <b>L</b>£38 <b>XL</b>£41
           </p>
           <p>
-            Nullam et orci eu lorem consequat tincidunt vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus pharetra.
-            Pellentesque condimentum sem. In efficitur ligula tate urna.
-            Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor.
-            Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat
-            tempus.
+            <ul>
+              <li>EXTERIOR ONLY</li>
+              <li>CITRUS PREWASH</li>
+              <li>SNOWFOAM</li>
+              <li>OUTER WHEEL CLEAN</li>
+              <li>PH NEUTRAL SHAMPOO AND JETWASH</li>
+              <li>MICROFIBRE HAND DRY</li>
+              <li>EXTERIOR GLASS POLISH</li>
+            </ul>
           </p>
           {close}
         </article>
