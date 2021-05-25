@@ -132,8 +132,8 @@ class Main extends React.Component {
           </span>
 */}
           <p>
-          <b>PREMIUM</b> - <b>S</b>£32 <b>M</b>£35 <b>L</b>£38 <b>XL</b>£41
-          <br/><i>EXTERIOR ONLY</i>
+          <h4><b>PREMIUM</b> - <b>S</b>£32 <b>M</b>£35 <b>L</b>£38 <b>XL</b>£41
+          <br/><i>Exterior Only</i></h4>
           </p>
           <p>
             <ul>
@@ -146,8 +146,8 @@ class Main extends React.Component {
             </ul>
           </p>
           <p>
-          <b>PREMIUM PLUS</b> - <b>S</b>£48 <b>M</b>£51 <b>L</b>£54 <b>XL</b>£57
-          <br/><i>INCLUDES ALL FROM <b>PREMIUM</b> PLUS</i>:
+          <h4><b>PREMIUM PLUS</b> - <b>S</b>£48 <b>M</b>£51 <b>L</b>£54 <b>XL</b>£57
+          <br/><i>INCLUDES ALL FROM <b>PREMIUM</b> PLUS</i>:</h4>
           </p>
           <p>
             <ul>
@@ -159,11 +159,13 @@ class Main extends React.Component {
           </p>
           <hr />
           <p>
-            <b><u>Car Classes</u></b>
-            <br />SMALL (<b>S</b>): <i>FIAT 500 SMART, KA, CORSA, MATIZ ETC</i>
-            <br />MEDIUM (<b>M</b>): <i>FOCUS, MEGANE, GOLF, A CLASS ,AUDI A3, BMW 1 SERIES, ASTRA ETC</i>
-            <br />LARGE (<b>L</b>): <i>MERCEDES S CLASS, MONDEO, INSIGNIA, C MAX, QASHQAI ETC</i>
-            <br />EXTRA LARGE (<b>XL</b>): <i>SMAX, 7 SEATERS, ESTATES, RANGE ROVER, MERCEDES GLC VW TOUREG, NEVARA ETC</i>
+          <h4><b>CAR CLASSES</b></h4>
+          <h5>
+            <br />SMALL <b>S</b>: <i>FIAT 500 SMART, KA, CORSA, MATIZ ETC</i>
+            <br />MEDIUM <b>M</b>: <i>FOCUS, MEGANE, GOLF, A CLASS ,AUDI A3, BMW 1 SERIES, ASTRA ETC</i>
+            <br />LARGE <b>L</b>: <i>MERCEDES S CLASS, MONDEO, INSIGNIA, C MAX, QASHQAI ETC</i>
+            <br />EXTRA LARGE <b>XL</b>: <i>SMAX, 7 SEATERS, ESTATES, RANGE ROVER, MERCEDES GLC VW TOUREG, NEVARA ETC</i>
+          </h5>
           </p>
           {close}
         </article>
