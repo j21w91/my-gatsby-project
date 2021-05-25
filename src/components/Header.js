@@ -12,7 +12,7 @@ const Header = props => (
       <div className="inner">
       <img src={jwlogo} alt="" />
         <p>
-          <b>Attention to detail is what we do.</b>
+          <b>Attention to detail is what we do</b>
         </p>
       </div>
     </div>
