@@ -181,6 +181,7 @@ class Main extends React.Component {
           <h2 className="major">Contact</h2>
           <form method="post" data-netlify-recaptcha="true" netlify-honeypot="bot-field" data-netlify="true" name="contact">
             <div className="field half first">
+            <input type="hidden" name="bot-field" />
               <label htmlFor="name">Name</label>
               <input type="text" name="name" id="name" />
             </div>
